@@ -1,4 +1,4 @@
-## SQL Queries
+## SQL Queries Set 1
 
 ```sql
 1. Retrieve Employees Hired in the Last 6 Months
