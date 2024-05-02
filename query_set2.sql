@@ -1,4 +1,4 @@
-## ASQL Queries
+## SQL Queries Set 2
 
 ```sql
 1. Retrieve Employees Who Have a Salary Greater Than Their Department's Average
